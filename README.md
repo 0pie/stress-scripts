@@ -1,2 +1,2 @@
-# stress-scripts
-A collection of different stressing scripts
+# Stressing Scripts
+A collection of different stressing scripts for http
